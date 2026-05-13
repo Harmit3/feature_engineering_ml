@@ -53,9 +53,7 @@ RFE selected: `pclass`, `age`, `sibsp`, `sex_male`, `embarked_Q`, `embarked_S`, 
 ## Project Structure
 
 ```
-├── COMP4730_Lab3_Titanic_Feature_Engineering_Patel.ipynb   # Main notebook
-├── COMP4730_Lab3_FeatureEngineering_Patel.pdf              # Exported report
-├── COMP4370_LAB3.pdf                                       # Lab instructions
+├── Titanic_Feature_Engineering.ipynb   # Main notebook
 └── requirements.txt                                        # Python dependencies
 ```
 
@@ -76,17 +74,12 @@ pip install -r requirements.txt
 Open the notebook in Jupyter or VS Code and run all cells:
 
 ```bash
-jupyter notebook COMP4730_Lab3_Titanic_Feature_Engineering_Patel.ipynb
+jupyter notebook Titanic_Feature_Engineering.ipynb
 ```
 
 All outputs and plots are generated inline within the notebook.
 
 ---
 
-## Course
-
-**COMP-4730 — Machine Learning**
-**Lab 3: Feature Engineering & Selection**
-**Instructor:** Dr. Sherif Saad — University of Windsor
 **Author:** Harmit Patel
 # feature_engineering_ml
